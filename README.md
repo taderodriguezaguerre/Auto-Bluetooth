@@ -3,8 +3,8 @@
 Este proyecto consiste en el diseño, ensamblaje y programación de un vehículo a control remoto (RC) operado vía Bluetooth. El sistema integra un **Arduino UNO**, electrónica de potencia para el manejo de motores mediante un Motor Shield, luces LED direccionales, y una **aplicación móvil desarrollada a medida** utilizando MIT App Inventor.
 
 ## 📱 Demostración
-> Proximamente Foto/Video
-![Demo del Auto funcionando](enlace-a-tu-gif-o-imagen.gif)
+> Foto del proyecto
+![Demo del Auto funcionando](https://github.com/taderodriguezaguerre/Auto-Bluetooth/blob/main/auto_bluetooth.jpg)
 
 ## ✨ Características Principales
 - **Control Inalámbrico:** Comunicación bidireccional mediante módulo Bluetooth (HC-05 / HC-06).
@@ -22,7 +22,7 @@ Este proyecto consiste en el diseño, ensamblaje y programación de un vehículo
 
 ## 🔌 Diagrama de Conexiones
 > Próximamente esquema 
-![Esquema del circuito](enlace-a-tu-diagrama.png)
+![Esquema del circuito]()
 
 ## 💻 Software y Lógica
 El código fuente está escrito en **C++** utilizando el IDE de Arduino. 
